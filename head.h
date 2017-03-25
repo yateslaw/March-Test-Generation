@@ -1,0 +1,10 @@
+#pragma once
+#include <iostream>
+#include <string>
+#include <vector>
+#include <fstream>
+#include <memory>
+#include <map>
+#include <algorithm>
+using std::string;
+using std::vector;
