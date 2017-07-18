@@ -19,7 +19,7 @@ int main()
 	// the flag  
 	size_t is_sens = 0, trans_flag = 0, flag = 0;
 	//loop of fill the March element with operations 
-	//whic take account of the test condition of the target fault
+	//which take account of the test condition of the target fault
 	while (f_m.size()) 
 	{
 		tmp = mt.get_fault_set(f_m,trans_flag);
